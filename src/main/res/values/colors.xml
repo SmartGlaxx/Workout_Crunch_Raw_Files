@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_overlay">#55000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#FF009900</color>
+    <color name="blue_500">#1E2B4E</color>
+    <color name="cowboys_blue">#FF041E42</color>
+    <color name="tottenham_navy_blue">#FF132257</color>
+    <color name="wine_red">#FF722F37</color>
+    <color name="oxblood_red">#FF800020</color>
+    <color name="rosewood_red">#FF65000B</color>
+
+</resources>

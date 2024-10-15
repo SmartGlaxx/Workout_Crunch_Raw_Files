@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467262370345",
+    "project_id": "workoutcrunch",
+    "storage_bucket": "workoutcrunch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467262370345:android:f9c9f5f1c91abe748ca238",
+        "android_client_info": {
+          "package_name": "com.smart_egbuchulem.workout_crunch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1b-VYiJ4WiHWBxB_q8he7YQERGilF8bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Workout Crunch</string>
+    <string name="default_web_client_id">467262370345-h4771k856vhqhk1ncncpk16ini2jl4b7.apps.googleusercontent.com</string>
+    <string name="nav_open">Open Nav Drawer</string>
+    <string name="nav_close">Close Nav Drawer</string>
+    <string name="workout_crunch">Workout Crunch</string>
+    <string name="your_workout_companion">Your Workout Companion</string>
+    <string name="workout_suitable_for_your_age">Workout Suitable For Your Age</string>
+    <string name="select_your_age_range">Select your age range</string>
+    <string name="age_strata_img1_desc">Ages 18 to 29</string>
+    <string name="age_strata_img2_desc">Ages 30 to 39</string>
+    <string name="age_strata_img3_desc">Ages 40 to 49</string>
+    <string name="age_strata_img4_desc">Ages 50 and above</string>
+    <string name="text_below_grid">Some text here</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="build_muscle_strength"><![CDATA[Build Muscle & Strength]]></string>
+    <string name="select_up_to_3">Select up to 3</string>
+    <string name="get_started">Get Started</string>
+    <string name="back_button">back button</string>
+    <string name="profile_setup">Profile Setup</string>
+
+</resources>
